@@ -1,0 +1,5 @@
+# ignore .devcontainer 
+# ignore .vscode
+# ignore .github
+.devcontainer
+.github
